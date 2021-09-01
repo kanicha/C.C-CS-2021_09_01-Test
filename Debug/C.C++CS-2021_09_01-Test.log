@@ -1,0 +1,10 @@
+﻿  C.C++CS-2021_09_01-Test.cpp
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(21,11): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(21,11): message : プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(21,11): message : 不足している可変個引数 2 が書式文字列 '%s' に必要です
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(21,11): message : この引数はバッファー サイズとして使用されます
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(80,11): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(80,11): message : プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(80,11): message : 不足している可変個引数 2 が書式文字列 '%c' に必要です
+D:\C++Project\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test\C.C++CS-2021_09_01-Test.cpp(80,11): message : この引数はバッファー サイズとして使用されます
+  C.C++CS-2021_09_01-Test.vcxproj -> D:\C++Project\C.C++CS-2021_09_01-Test\Debug\C.C++CS-2021_09_01-Test.exe
